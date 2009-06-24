@@ -1,0 +1,16 @@
+# -- THEME AUTO-WRITTEN DO NOT EDIT
+include "/home/daisuke/.themes/Rezlooks-Silver/gtk-2.0/gtkrc"
+
+style "user-font" {
+	font_name = "DejaVu Sans Semi-Condensed 7"
+}
+
+widget_class "*" style "user-font"
+
+gtk-font-name="DejaVu Sans Semi-Condensed 7"
+
+gtk-icon-theme-name="SimplyGrey"
+
+include "/home/daisuke/.gtkrc.mine"
+
+# -- THEME AUTO-WRITTEN DO NOT EDIT
