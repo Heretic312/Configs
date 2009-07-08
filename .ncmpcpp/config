@@ -1,0 +1,25 @@
+song_list_format = "{$3[%l]$9} {$5%a$9} {$6%t$9} %y %r %n {$5%b$9}"
+
+colors_enabled = "yes"
+
+header_window_color = "green"
+
+volume_color = "red"
+
+state_line_color = "green"
+
+state_flags_color = "green"
+
+main_window_color = "yellow"
+
+main_window_highlight_color = "red"
+
+progressbar_color = "red"
+
+statusbar_color = "green"
+
+window_border_color = "red"
+
+active_window_border = "magenta"
+
+clock_display_seconds = "yes"
