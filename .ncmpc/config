@@ -1,0 +1,20 @@
+auto-center = yes
+set-xterm-title = yes
+enable-colors = yes
+ 
+list-format = "[[%track%. ][%artist% - ]%title%]|[%shortfile%]"
+status-format = "[[%track%. ][%artist% - ]%title%]|[%shortfile%]"
+xterm-title-format = "[[%track%. ][%artist% - ]%title%]|[%shortfile%]"
+ 
+color background = none
+color title = brightgreen
+color title-bold = brightgreen
+color list = brightgreen
+color list-bold = green
+color line = brightgreen
+color line-flags = brightgreen
+color progressbar = brightred
+color status-state = brightgreen
+color status-song = brightgreen
+color status-time = brightred
+color alert = brightred
